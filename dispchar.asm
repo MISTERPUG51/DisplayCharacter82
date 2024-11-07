@@ -1,7 +1,7 @@
 ;This is the source code for Display Charater 82 by MISTERPUG51
 ;https://misterpug51.github.io/lnk/dispchar82
 ;There are very detailed comments for most of the instructions so that beginners can learn from this program.
-;This program has no practical use. All it does is allow you do cycle through all 256 characters in the character
+;This program has no practical use. All it does is allow you to cycle through all 256 characters in the character
 ;set of the TI-82.
 
 ;Also, there is a bug. I've spent a half hour trying to understand why, but I just can't figure it out. For some
